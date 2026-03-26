@@ -76,9 +76,11 @@ func (i *BlockingInterception) ProcessRequest(w http.ResponseWriter, r *http.Req
 		prompt *string
 		err    error
 	)
+
+	prompt, err = i.req.lastUserPrompt()
+
 	// Track user prompt if not a small/fast model
 	if !i.isSmallFastModel() {
-		prompt, err = i.req.lastUserPrompt()
 		if err != nil {
 			i.logger.Warn(ctx, "failed to retrieve last user prompt", slog.Error(err))
 		}

@@ -32,6 +32,9 @@ var (
 
 	//go:embed anthropic/non_stream_error.txtar
 	AntNonStreamError []byte
+
+	//go:embed anthropic/haiku_simple.txtar
+	AntHaikuSimple []byte
 )
 
 var (

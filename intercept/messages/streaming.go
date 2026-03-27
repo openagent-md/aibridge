@@ -27,7 +27,7 @@ import (
 	"go.opentelemetry.io/otel/attribute"
 	"go.opentelemetry.io/otel/trace"
 
-	"cdr.dev/slog/v3"
+	"dev.latticeruntime.com/slog/v3"
 )
 
 type StreamingInterception struct {

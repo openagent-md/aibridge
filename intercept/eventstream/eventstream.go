@@ -13,7 +13,7 @@ import (
 	"syscall"
 	"time"
 
-	"cdr.dev/slog/v3"
+	"dev.latticeruntime.com/slog/v3"
 )
 
 var ErrEventStreamClosed = errors.New("event stream closed")

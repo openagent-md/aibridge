@@ -3,7 +3,7 @@ package intercept
 import (
 	"net/http"
 
-	"cdr.dev/slog/v3"
+	"dev.latticeruntime.com/slog/v3"
 	"github.com/openagent-md/aibridge/mcp"
 	"github.com/openagent-md/aibridge/recorder"
 	"github.com/google/uuid"

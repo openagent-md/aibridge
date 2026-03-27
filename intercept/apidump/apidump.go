@@ -12,7 +12,7 @@ import (
 	"slices"
 	"strings"
 
-	"cdr.dev/slog/v3"
+	"dev.latticeruntime.com/slog/v3"
 
 	"github.com/openagent-md/quartz"
 	"github.com/google/uuid"

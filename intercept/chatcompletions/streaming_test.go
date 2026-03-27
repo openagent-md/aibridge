@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"testing"
 
-	"cdr.dev/slog/v3"
-	"cdr.dev/slog/v3/sloggers/slogtest"
+	"dev.latticeruntime.com/slog/v3"
+	"dev.latticeruntime.com/slog/v3/sloggers/slogtest"
 	"github.com/openagent-md/aibridge/config"
 	"github.com/openagent-md/aibridge/internal/testutil"
 	"github.com/google/uuid"

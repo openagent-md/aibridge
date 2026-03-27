@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"cdr.dev/slog/v3"
+	"dev.latticeruntime.com/slog/v3"
 	"github.com/openagent-md/aibridge/fixtures"
 	"github.com/openagent-md/aibridge/utils"
 	"github.com/openai/openai-go/v3"

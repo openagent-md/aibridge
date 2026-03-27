@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"cdr.dev/slog/v3"
-	"cdr.dev/slog/v3/sloggers/slogtest"
+	"dev.latticeruntime.com/slog/v3"
+	"dev.latticeruntime.com/slog/v3/sloggers/slogtest"
 	"github.com/openagent-md/aibridge/mcp"
 	"github.com/mark3labs/mcp-go/client/transport"
 	mcplib "github.com/mark3labs/mcp-go/mcp"

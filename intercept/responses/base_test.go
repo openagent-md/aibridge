@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"cdr.dev/slog/v3"
+	"dev.latticeruntime.com/slog/v3"
 	"github.com/openagent-md/aibridge/internal/testutil"
 	"github.com/openagent-md/aibridge/recorder"
 	"github.com/google/uuid"

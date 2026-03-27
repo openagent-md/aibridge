@@ -7,7 +7,7 @@ import (
 	"slices"
 	"strings"
 
-	"cdr.dev/slog/v3"
+	"dev.latticeruntime.com/slog/v3"
 	"github.com/openagent-md/aibridge/tracing"
 	"github.com/mark3labs/mcp-go/client"
 	"github.com/mark3labs/mcp-go/client/transport"

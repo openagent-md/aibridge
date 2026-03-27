@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"cdr.dev/slog/v3"
+	"dev.latticeruntime.com/slog/v3"
 	"github.com/openagent-md/aibridge/tracing"
 	"github.com/mark3labs/mcp-go/mcp"
 	"go.opentelemetry.io/otel/attribute"

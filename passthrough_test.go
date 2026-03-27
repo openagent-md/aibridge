@@ -5,7 +5,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"cdr.dev/slog/v3/sloggers/slogtest"
+	"dev.latticeruntime.com/slog/v3/sloggers/slogtest"
 	"github.com/openagent-md/aibridge/internal/testutil"
 	"github.com/stretchr/testify/assert"
 	"go.opentelemetry.io/otel"

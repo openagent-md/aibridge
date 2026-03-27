@@ -5,7 +5,7 @@ import (
 	"database/sql"
 	"encoding/json"
 
-	"cdr.dev/slog/v3"
+	"dev.latticeruntime.com/slog/v3"
 	"github.com/openagent-md/aibridge"
 	"github.com/google/uuid"
 )

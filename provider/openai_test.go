@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"cdr.dev/slog/v3"
+	"dev.latticeruntime.com/slog/v3"
 	"github.com/openagent-md/aibridge/config"
 	"github.com/openagent-md/aibridge/internal/testutil"
 	"github.com/stretchr/testify/assert"

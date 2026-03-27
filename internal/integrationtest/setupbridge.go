@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"cdr.dev/slog/v3"
+	"dev.latticeruntime.com/slog/v3"
 	"github.com/openagent-md/aibridge"
 	"github.com/openagent-md/aibridge/config"
 	aibcontext "github.com/openagent-md/aibridge/context"

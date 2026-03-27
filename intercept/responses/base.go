@@ -13,7 +13,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"cdr.dev/slog/v3"
+	"dev.latticeruntime.com/slog/v3"
 	"github.com/openagent-md/aibridge/config"
 	aibcontext "github.com/openagent-md/aibridge/context"
 	"github.com/openagent-md/aibridge/intercept"

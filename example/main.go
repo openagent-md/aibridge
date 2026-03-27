@@ -9,8 +9,8 @@ import (
 	"os"
 	"regexp"
 
-	"cdr.dev/slog/v3"
-	"cdr.dev/slog/v3/sloggers/sloghuman"
+	"dev.latticeruntime.com/slog/v3"
+	"dev.latticeruntime.com/slog/v3/sloggers/sloghuman"
 	"github.com/openagent-md/aibridge"
 	aibcontext "github.com/openagent-md/aibridge/context"
 	"github.com/openagent-md/aibridge/mcp"

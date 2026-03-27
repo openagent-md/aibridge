@@ -9,8 +9,8 @@ import (
 	"strings"
 	"testing"
 
-	"cdr.dev/slog/v3"
-	"cdr.dev/slog/v3/sloggers/slogtest"
+	"dev.latticeruntime.com/slog/v3"
+	"dev.latticeruntime.com/slog/v3/sloggers/slogtest"
 	"github.com/openagent-md/quartz"
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/require"

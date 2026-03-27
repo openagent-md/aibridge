@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"cdr.dev/slog/v3"
+	"dev.latticeruntime.com/slog/v3"
 
 	"github.com/openagent-md/aibridge/metrics"
 	"github.com/openagent-md/aibridge/tracing"

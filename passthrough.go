@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"time"
 
-	"cdr.dev/slog/v3"
+	"dev.latticeruntime.com/slog/v3"
 	"github.com/openagent-md/aibridge/intercept/apidump"
 	"github.com/openagent-md/aibridge/metrics"
 	"github.com/openagent-md/aibridge/provider"

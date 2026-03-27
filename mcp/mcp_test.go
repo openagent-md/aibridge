@@ -11,8 +11,8 @@ import (
 	"testing"
 	"time"
 
-	"cdr.dev/slog/v3"
-	"cdr.dev/slog/v3/sloggers/slogtest"
+	"dev.latticeruntime.com/slog/v3"
+	"dev.latticeruntime.com/slog/v3/sloggers/slogtest"
 	"go.opentelemetry.io/otel"
 	"go.uber.org/goleak"
 

@@ -6,7 +6,7 @@ retract v1.0.8 // contains unresolved conflict marker from cherry-pick
 
 // Misc libs.
 require (
-	cdr.dev/slog/v3 v3.0.0
+	dev.latticeruntime.com/slog/v3 v3.0.1-rc1
 	github.com/openagent-md/quartz v0.3.0
 	github.com/google/uuid v1.6.0
 	github.com/hashicorp/go-multierror v1.1.1

@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/coder/aibridge/config"
+	"github.com/openagent-md/aibridge/config"
 	"github.com/sony/gobreaker/v2"
 	"github.com/stretchr/testify/assert"
 )

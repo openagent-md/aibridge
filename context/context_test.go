@@ -7,7 +7,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/coder/aibridge/recorder"
+	"github.com/openagent-md/aibridge/recorder"
 )
 
 func TestAsActor(t *testing.T) {

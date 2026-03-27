@@ -12,7 +12,7 @@ import (
 
 	"cdr.dev/slog/v3"
 	"cdr.dev/slog/v3/sloggers/slogtest"
-	"github.com/coder/quartz"
+	"github.com/openagent-md/quartz"
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/require"
 )

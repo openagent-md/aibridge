@@ -4,8 +4,8 @@ import (
 	"net/http"
 
 	"cdr.dev/slog/v3"
-	"github.com/coder/aibridge/mcp"
-	"github.com/coder/aibridge/recorder"
+	"github.com/openagent-md/aibridge/mcp"
+	"github.com/openagent-md/aibridge/recorder"
 	"github.com/google/uuid"
 	"go.opentelemetry.io/otel/attribute"
 )

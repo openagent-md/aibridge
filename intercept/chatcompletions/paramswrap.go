@@ -3,7 +3,7 @@ package chatcompletions
 import (
 	"errors"
 
-	"github.com/coder/aibridge/utils"
+	"github.com/openagent-md/aibridge/utils"
 	"github.com/openai/openai-go/v3"
 	"github.com/openai/openai-go/v3/packages/param"
 	"github.com/tidwall/gjson"

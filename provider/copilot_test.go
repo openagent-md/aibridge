@@ -11,8 +11,8 @@ import (
 	"github.com/stretchr/testify/require"
 	"go.opentelemetry.io/otel"
 
-	"github.com/coder/aibridge/config"
-	"github.com/coder/aibridge/internal/testutil"
+	"github.com/openagent-md/aibridge/config"
+	"github.com/openagent-md/aibridge/internal/testutil"
 )
 
 var testTracer = otel.Tracer("copilot_test")

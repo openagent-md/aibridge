@@ -3,7 +3,7 @@ package utils_test
 import (
 	"testing"
 
-	"github.com/coder/aibridge/utils"
+	"github.com/openagent-md/aibridge/utils"
 	"github.com/stretchr/testify/assert"
 )
 

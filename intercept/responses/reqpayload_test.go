@@ -6,8 +6,8 @@ import (
 	"testing"
 
 	"cdr.dev/slog/v3"
-	"github.com/coder/aibridge/fixtures"
-	"github.com/coder/aibridge/utils"
+	"github.com/openagent-md/aibridge/fixtures"
+	"github.com/openagent-md/aibridge/utils"
 	"github.com/openai/openai-go/v3"
 	"github.com/openai/openai-go/v3/responses"
 	"github.com/stretchr/testify/assert"

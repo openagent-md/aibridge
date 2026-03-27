@@ -14,7 +14,7 @@ import (
 
 	"cdr.dev/slog/v3"
 
-	"github.com/coder/quartz"
+	"github.com/openagent-md/quartz"
 	"github.com/google/uuid"
 	"github.com/tidwall/pretty"
 )

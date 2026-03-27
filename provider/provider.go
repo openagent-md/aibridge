@@ -4,8 +4,8 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/coder/aibridge/config"
-	"github.com/coder/aibridge/intercept"
+	"github.com/openagent-md/aibridge/config"
+	"github.com/openagent-md/aibridge/intercept"
 	"go.opentelemetry.io/otel/trace"
 )
 

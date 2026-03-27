@@ -11,9 +11,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/coder/aibridge/config"
-	"github.com/coder/aibridge/metrics"
-	"github.com/coder/aibridge/provider"
+	"github.com/openagent-md/aibridge/config"
+	"github.com/openagent-md/aibridge/metrics"
+	"github.com/openagent-md/aibridge/provider"
 	"github.com/prometheus/client_golang/prometheus"
 	promtest "github.com/prometheus/client_golang/prometheus/testutil"
 	"github.com/stretchr/testify/assert"

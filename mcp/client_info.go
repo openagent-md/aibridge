@@ -1,7 +1,7 @@
 package mcp
 
 import (
-	"github.com/coder/aibridge/buildinfo"
+	"github.com/openagent-md/aibridge/buildinfo"
 	"github.com/mark3labs/mcp-go/mcp"
 )
 

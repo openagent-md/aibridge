@@ -16,7 +16,7 @@ import (
 	"go.opentelemetry.io/otel"
 	"go.uber.org/goleak"
 
-	"github.com/coder/aibridge/mcp"
+	"github.com/openagent-md/aibridge/mcp"
 	"github.com/mark3labs/mcp-go/server"
 	"github.com/stretchr/testify/require"
 

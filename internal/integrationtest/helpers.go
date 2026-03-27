@@ -5,8 +5,8 @@ import (
 
 	"cdr.dev/slog/v3"
 	"cdr.dev/slog/v3/sloggers/slogtest"
-	"github.com/coder/aibridge/config"
-	"github.com/coder/aibridge/recorder"
+	"github.com/openagent-md/aibridge/config"
+	"github.com/openagent-md/aibridge/recorder"
 )
 
 // anthropicCfg creates a minimal Anthropic config for testing.

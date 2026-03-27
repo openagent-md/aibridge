@@ -3,8 +3,8 @@ package intercept
 import (
 	"testing"
 
-	"github.com/coder/aibridge/context"
-	"github.com/coder/aibridge/recorder"
+	"github.com/openagent-md/aibridge/context"
+	"github.com/openagent-md/aibridge/recorder"
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/require"
 )

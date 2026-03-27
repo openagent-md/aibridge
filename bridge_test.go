@@ -6,9 +6,9 @@ import (
 	"testing"
 
 	"cdr.dev/slog/v3/sloggers/slogtest"
-	"github.com/coder/aibridge/config"
-	"github.com/coder/aibridge/internal/testutil"
-	"github.com/coder/aibridge/provider"
+	"github.com/openagent-md/aibridge/config"
+	"github.com/openagent-md/aibridge/internal/testutil"
+	"github.com/openagent-md/aibridge/provider"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

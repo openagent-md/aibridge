@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/coder/aibridge/config"
-	"github.com/coder/aibridge/metrics"
+	"github.com/openagent-md/aibridge/config"
+	"github.com/openagent-md/aibridge/metrics"
 	"github.com/sony/gobreaker/v2"
 )
 

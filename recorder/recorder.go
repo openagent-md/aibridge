@@ -8,8 +8,8 @@ import (
 
 	"cdr.dev/slog/v3"
 
-	"github.com/coder/aibridge/metrics"
-	"github.com/coder/aibridge/tracing"
+	"github.com/openagent-md/aibridge/metrics"
+	"github.com/openagent-md/aibridge/tracing"
 	"go.opentelemetry.io/otel/trace"
 )
 

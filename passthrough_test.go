@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"cdr.dev/slog/v3/sloggers/slogtest"
-	"github.com/coder/aibridge/internal/testutil"
+	"github.com/openagent-md/aibridge/internal/testutil"
 	"github.com/stretchr/testify/assert"
 	"go.opentelemetry.io/otel"
 )

@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	ant_option "github.com/anthropics/anthropic-sdk-go/option"
-	"github.com/coder/aibridge/context"
+	"github.com/openagent-md/aibridge/context"
 	oai_option "github.com/openai/openai-go/v3/option"
 )
 

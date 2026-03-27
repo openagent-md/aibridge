@@ -10,8 +10,8 @@ import (
 	"testing"
 
 	"cdr.dev/slog/v3"
-	"github.com/coder/aibridge/config"
-	"github.com/coder/aibridge/internal/testutil"
+	"github.com/openagent-md/aibridge/config"
+	"github.com/openagent-md/aibridge/internal/testutil"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"go.opentelemetry.io/otel/trace/noop"

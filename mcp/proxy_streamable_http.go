@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"cdr.dev/slog/v3"
-	"github.com/coder/aibridge/tracing"
+	"github.com/openagent-md/aibridge/tracing"
 	"github.com/mark3labs/mcp-go/client"
 	"github.com/mark3labs/mcp-go/client/transport"
 	"github.com/mark3labs/mcp-go/mcp"

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/coder/aibridge/utils"
+	"github.com/openagent-md/aibridge/utils"
 	"github.com/stretchr/testify/require"
 	"go.uber.org/goleak"
 )

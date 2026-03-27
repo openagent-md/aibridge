@@ -3,7 +3,7 @@ package buildinfo_test
 import (
 	"testing"
 
-	"github.com/coder/aibridge/buildinfo"
+	"github.com/openagent-md/aibridge/buildinfo"
 	"github.com/stretchr/testify/assert"
 )
 

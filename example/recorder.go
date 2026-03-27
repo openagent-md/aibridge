@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 
 	"cdr.dev/slog/v3"
-	"github.com/coder/aibridge"
+	"github.com/openagent-md/aibridge"
 	"github.com/google/uuid"
 )
 

@@ -3,7 +3,7 @@ package mcp_test
 import (
 	"testing"
 
-	"github.com/coder/aibridge/mcp"
+	"github.com/openagent-md/aibridge/mcp"
 	"github.com/stretchr/testify/assert"
 )
 

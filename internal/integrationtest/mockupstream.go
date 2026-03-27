@@ -17,7 +17,7 @@ import (
 	"testing"
 
 	"github.com/anthropics/anthropic-sdk-go"
-	"github.com/coder/aibridge/fixtures"
+	"github.com/openagent-md/aibridge/fixtures"
 	"github.com/openai/openai-go/v3"
 	"github.com/stretchr/testify/require"
 	"github.com/tidwall/gjson"

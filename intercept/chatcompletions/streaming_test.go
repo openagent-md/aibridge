@@ -8,8 +8,8 @@ import (
 
 	"cdr.dev/slog/v3"
 	"cdr.dev/slog/v3/sloggers/slogtest"
-	"github.com/coder/aibridge/config"
-	"github.com/coder/aibridge/internal/testutil"
+	"github.com/openagent-md/aibridge/config"
+	"github.com/openagent-md/aibridge/internal/testutil"
 	"github.com/google/uuid"
 	"github.com/openai/openai-go/v3"
 	"github.com/stretchr/testify/assert"

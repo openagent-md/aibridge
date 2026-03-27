@@ -3,7 +3,7 @@ package chatcompletions
 import (
 	"testing"
 
-	"github.com/coder/aibridge/utils"
+	"github.com/openagent-md/aibridge/utils"
 	"github.com/openai/openai-go/v3"
 	"github.com/stretchr/testify/require"
 )

@@ -11,9 +11,9 @@ import (
 
 	"cdr.dev/slog/v3"
 	"cdr.dev/slog/v3/sloggers/sloghuman"
-	"github.com/coder/aibridge"
-	aibcontext "github.com/coder/aibridge/context"
-	"github.com/coder/aibridge/mcp"
+	"github.com/openagent-md/aibridge"
+	aibcontext "github.com/openagent-md/aibridge/context"
+	"github.com/openagent-md/aibridge/mcp"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 	"go.opentelemetry.io/otel"

@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"cdr.dev/slog/v3"
-	"github.com/coder/aibridge/recorder"
+	"github.com/openagent-md/aibridge/recorder"
 	"github.com/openai/openai-go/v3"
 	"github.com/openai/openai-go/v3/responses"
 	"github.com/openai/openai-go/v3/shared/constant"

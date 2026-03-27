@@ -8,7 +8,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/coder/aibridge/recorder"
+	"github.com/openagent-md/aibridge/recorder"
 	"github.com/stretchr/testify/require"
 )
 

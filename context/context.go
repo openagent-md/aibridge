@@ -3,7 +3,7 @@ package context
 import (
 	"context"
 
-	"github.com/coder/aibridge/recorder"
+	"github.com/openagent-md/aibridge/recorder"
 )
 
 type (

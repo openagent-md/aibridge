@@ -8,9 +8,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/coder/aibridge/config"
-	"github.com/coder/aibridge/fixtures"
-	"github.com/coder/aibridge/tracing"
+	"github.com/openagent-md/aibridge/config"
+	"github.com/openagent-md/aibridge/fixtures"
+	"github.com/openagent-md/aibridge/tracing"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"github.com/tidwall/gjson"

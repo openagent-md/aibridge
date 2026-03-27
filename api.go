@@ -4,11 +4,11 @@ import (
 	"context"
 
 	"cdr.dev/slog/v3"
-	"github.com/coder/aibridge/config"
-	aibcontext "github.com/coder/aibridge/context"
-	"github.com/coder/aibridge/metrics"
-	"github.com/coder/aibridge/provider"
-	"github.com/coder/aibridge/recorder"
+	"github.com/openagent-md/aibridge/config"
+	aibcontext "github.com/openagent-md/aibridge/context"
+	"github.com/openagent-md/aibridge/metrics"
+	"github.com/openagent-md/aibridge/provider"
+	"github.com/openagent-md/aibridge/recorder"
 	"github.com/prometheus/client_golang/prometheus"
 	"go.opentelemetry.io/otel/trace"
 )

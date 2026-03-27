@@ -13,7 +13,7 @@ func init() {
 	}
 
 	for _, dep := range info.Deps {
-		if dep.Path == "github.com/coder/aibridge" {
+		if dep.Path == "github.com/openagent-md/aibridge" {
 			version = dep.Version
 		}
 	}

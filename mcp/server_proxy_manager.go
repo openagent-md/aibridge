@@ -7,8 +7,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/coder/aibridge/tracing"
-	"github.com/coder/aibridge/utils"
+	"github.com/openagent-md/aibridge/tracing"
+	"github.com/openagent-md/aibridge/utils"
 	"github.com/mark3labs/mcp-go/mcp"
 	"go.opentelemetry.io/otel/trace"
 )

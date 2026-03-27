@@ -7,7 +7,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/coder/aibridge/utils"
+	"github.com/openagent-md/aibridge/utils"
 	"github.com/tidwall/gjson"
 )
 

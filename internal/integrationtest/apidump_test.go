@@ -13,11 +13,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/coder/aibridge"
-	"github.com/coder/aibridge/config"
-	"github.com/coder/aibridge/fixtures"
-	"github.com/coder/aibridge/intercept/apidump"
-	"github.com/coder/aibridge/provider"
+	"github.com/openagent-md/aibridge"
+	"github.com/openagent-md/aibridge/config"
+	"github.com/openagent-md/aibridge/fixtures"
+	"github.com/openagent-md/aibridge/intercept/apidump"
+	"github.com/openagent-md/aibridge/provider"
 	"github.com/stretchr/testify/require"
 )
 

@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"cdr.dev/slog/v3"
-	"github.com/coder/aibridge/tracing"
+	"github.com/openagent-md/aibridge/tracing"
 	"github.com/mark3labs/mcp-go/mcp"
 	"go.opentelemetry.io/otel/attribute"
 	"go.opentelemetry.io/otel/trace"
